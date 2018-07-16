@@ -1,0 +1,153 @@
+{
+  "625_word": "adulto",
+  "difficulty": "medium",
+  "learn": "Debes utilizar este producto bajo la vigilancia de un adulto.",
+  "vulgar": false,
+  "known": "You must use this product under the supervision of an adult.",
+  "audio_url": "sentence_adulto_medium.mp3",
+  "words": [
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 0,
+      "end": 5,
+      "learn": "Debes",
+      "known": "You must",
+      "root": "debes",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 6,
+      "end": 14,
+      "learn": "utilizar",
+      "known": "use",
+      "root": "utilizar",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 15,
+      "end": 19,
+      "learn": "este",
+      "known": "this",
+      "root": "este",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 20,
+      "end": 28,
+      "learn": "producto",
+      "known": "product",
+      "root": "producto",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 29,
+      "end": 33,
+      "learn": "bajo",
+      "known": "under",
+      "root": "bajo",
+      "tags": [],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 34,
+      "end": 36,
+      "learn": "la",
+      "known": "the",
+      "root": "la",
+      "tags": [
+        "feminine"
+      ],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 37,
+      "end": 47,
+      "learn": "vigilancia",
+      "known": "surveillance",
+      "root": "vigilancia",
+      "tags": [
+        "feminine"
+      ],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": "5"
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 48,
+      "end": 50,
+      "learn": "de",
+      "known": "of",
+      "root": "de",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 51,
+      "end": 53,
+      "learn": "un",
+      "known": "an",
+      "root": "un",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": ".",
+      "start": 54,
+      "end": 60,
+      "learn": "adulto",
+      "known": "adult",
+      "root": "adulto",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": "8"
+    }
+  ],
+  "lang_pack": "en-US_es-MX"
+}
