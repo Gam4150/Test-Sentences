@@ -1,0 +1,203 @@
+{
+  "625_word": "alto",
+  "difficulty": "hard",
+  "learn": "El hombre más alto del mundo que ha logrado el Record Guinness medía 2.72 metros.",
+  "vulgar": false,
+  "known": "The tallest man in the world who has achieved the Guinness Record measured 2.72 meters.",
+  "audio_url": "sentence_alto_hard.mp3",
+  "words": [
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 0,
+      "end": 2,
+      "learn": "El",
+      "known": "the",
+      "root": "el",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 3,
+      "end": 9,
+      "learn": "hombre",
+      "known": "man",
+      "root": "hombre",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": "0"
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 10,
+      "end": 13,
+      "learn": "más",
+      "known": "most",
+      "root": "más",
+      "tags": [],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 14,
+      "end": 18,
+      "learn": "alto",
+      "known": "tall",
+      "root": "alto",
+      "tags": [],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 19,
+      "end": 22,
+      "learn": "del",
+      "known": "of the",
+      "root": "del",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 23,
+      "end": 28,
+      "learn": "mundo",
+      "known": "world",
+      "root": "mundo",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 29,
+      "end": 32,
+      "learn": "que",
+      "known": "that",
+      "root": "que",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 33,
+      "end": 35,
+      "learn": "ha",
+      "known": "has",
+      "root": "haber",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 36,
+      "end": 43,
+      "learn": "logrado",
+      "known": "achieved",
+      "root": "lograr",
+      "tags": [],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 44,
+      "end": 46,
+      "learn": "el",
+      "known": "the",
+      "root": "el",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 47,
+      "end": 62,
+      "learn": "Record Guinness",
+      "known": "Record Guinness",
+      "root": "Record Guinness",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": "9"
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 63,
+      "end": 68,
+      "learn": "medía",
+      "known": "measured",
+      "root": "medir",
+      "tags": [],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 69,
+      "end": 73,
+      "learn": "2.72",
+      "known": "2.72",
+      "root": "2.72",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": ".",
+      "start": 74,
+      "end": 80,
+      "learn": "metros",
+      "known": "meters",
+      "root": "metro",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": null
+    }
+  ],
+  "lang_pack": "en-US_es-MX"
+}
