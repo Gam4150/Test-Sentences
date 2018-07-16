@@ -16,7 +16,7 @@
       "root": "mi",
       "tags": [],
       "abstract": true,
-      "vulgar": false,
+      "vulgar": true,
       "child_index": null
     },
     {
