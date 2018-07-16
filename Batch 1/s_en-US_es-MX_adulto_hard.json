@@ -1,0 +1,222 @@
+{
+  "625_word": "adulto",
+  "difficulty": "hard",
+  "learn": "Los problemas sociales del país afectan a niños y a adultos de todas las edades.",
+  "vulgar": false,
+  "known": "The country's social problems affect children and adults of all ages.",
+  "audio_url": "sentence_adulto_hard.mp3",
+  "words": [
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 0,
+      "end": 3,
+      "learn": "Los",
+      "known": "the",
+      "root": "los",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 4,
+      "end": 13,
+      "learn": "problemas",
+      "known": "problems",
+      "root": "problemas",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 14,
+      "end": 22,
+      "learn": "sociales",
+      "known": "social",
+      "root": "sociales",
+      "tags": [],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 23,
+      "end": 26,
+      "learn": "del",
+      "known": "of",
+      "root": "del",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 27,
+      "end": 31,
+      "learn": "país",
+      "known": "country",
+      "root": "país",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 32,
+      "end": 39,
+      "learn": "afectan",
+      "known": "affect",
+      "root": "afectan",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 40,
+      "end": 41,
+      "learn": "a",
+      "known": "to",
+      "root": "a",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 42,
+      "end": 47,
+      "learn": "niños",
+      "known": "children",
+      "root": "niños",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 48,
+      "end": 49,
+      "learn": "y",
+      "known": "and",
+      "root": "y",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 50,
+      "end": 51,
+      "learn": "a",
+      "known": "to",
+      "root": "a",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 52,
+      "end": 59,
+      "learn": "adultos",
+      "known": "adults",
+      "root": "adultos",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 60,
+      "end": 62,
+      "learn": "de",
+      "known": "of",
+      "root": "de",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 63,
+      "end": 68,
+      "learn": "todas",
+      "known": "all",
+      "root": "todas",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 69,
+      "end": 72,
+      "learn": "las",
+      "known": "the",
+      "root": "las",
+      "tags": [
+        "feminine"
+      ],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": ".",
+      "start": 73,
+      "end": 79,
+      "learn": "edades",
+      "known": "ages",
+      "root": "edades",
+      "tags": [
+        "feminine"
+      ],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    }
+  ],
+  "lang_pack": "en-US_es-MX"
+}
