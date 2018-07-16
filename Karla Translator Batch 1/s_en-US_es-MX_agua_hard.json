@@ -1,0 +1,196 @@
+{
+  "625_word": "agua",
+  "difficulty": "hard",
+  "learn": "Algunas personas piensan que el navío desapareció en esas aguas hace muchos años.",
+  "vulgar": false,
+  "known": "Some people think that the ship disappeared in those waters many years ago.",
+  "audio_url": "sentence_agua_hard.mp3",
+  "words": [
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 0,
+      "end": 7,
+      "learn": "Algunas",
+      "known": "some",
+      "root": "algunas",
+      "tags": [
+        "feminine"
+      ],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 8,
+      "end": 16,
+      "learn": "personas",
+      "known": "people",
+      "root": "personas",
+      "tags": [
+        "feminine"
+      ],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 17,
+      "end": 24,
+      "learn": "piensan",
+      "known": "think",
+      "root": "piensan",
+      "tags": [],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 25,
+      "end": 28,
+      "learn": "que",
+      "known": "that",
+      "root": "que",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 29,
+      "end": 31,
+      "learn": "el",
+      "known": "the",
+      "root": "el",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 32,
+      "end": 37,
+      "learn": "navío",
+      "known": "ship",
+      "root": "navío",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": "4"
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 38,
+      "end": 49,
+      "learn": "desapareció",
+      "known": "disappeared",
+      "root": "desapareció",
+      "tags": [],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 50,
+      "end": 52,
+      "learn": "en",
+      "known": "in",
+      "root": "en",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 53,
+      "end": 57,
+      "learn": "esas",
+      "known": "those",
+      "root": "esas",
+      "tags": [
+        "feminine"
+      ],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 58,
+      "end": 63,
+      "learn": "aguas",
+      "known": "waters",
+      "root": "aguas",
+      "tags": [
+        "feminine"
+      ],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 64,
+      "end": 68,
+      "learn": "hace",
+      "known": "ago",
+      "root": "hace",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 69,
+      "end": 75,
+      "learn": "muchos",
+      "known": "many",
+      "root": "muchos",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": ".",
+      "start": 76,
+      "end": 80,
+      "learn": "años",
+      "known": "years",
+      "root": "años",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    }
+  ],
+  "lang_pack": "en-US_es-MX"
+}

@@ -1,0 +1,151 @@
+{
+  "625_word": "agua",
+  "difficulty": "medium",
+  "learn": "Cuidado con las aguas turbias al caminar cerca del río.",
+  "vulgar": false,
+  "known": "Beware of the muddy waters when walking near the river.",
+  "audio_url": "sentence_agua_medium.mp3",
+  "words": [
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 0,
+      "end": 7,
+      "learn": "Cuidado",
+      "known": "beware of",
+      "root": "cuidado",
+      "tags": [],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 8,
+      "end": 11,
+      "learn": "con",
+      "known": "with",
+      "root": "con",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 12,
+      "end": 15,
+      "learn": "las",
+      "known": "the",
+      "root": "las",
+      "tags": [
+        "feminine"
+      ],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 16,
+      "end": 21,
+      "learn": "aguas",
+      "known": "waters",
+      "root": "aguas",
+      "tags": [
+        "feminine"
+      ],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": "2"
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 22,
+      "end": 29,
+      "learn": "turbias",
+      "known": "muddy",
+      "root": "turbias",
+      "tags": [
+        "feminine"
+      ],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 30,
+      "end": 32,
+      "learn": "al",
+      "known": "to",
+      "root": "al",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 33,
+      "end": 40,
+      "learn": "caminar",
+      "known": "walking",
+      "root": "caminar",
+      "tags": [],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 41,
+      "end": 46,
+      "learn": "cerca",
+      "known": "near",
+      "root": "cerca",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 47,
+      "end": 50,
+      "learn": "del",
+      "known": "of",
+      "root": "del",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": ".",
+      "start": 51,
+      "end": 54,
+      "learn": "río",
+      "known": "river",
+      "root": "río",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": null
+    }
+  ],
+  "lang_pack": "en-US_es-MX"
+}

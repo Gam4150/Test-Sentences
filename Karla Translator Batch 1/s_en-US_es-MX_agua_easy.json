@@ -1,0 +1,84 @@
+{
+  "625_word": "agua",
+  "difficulty": "easy",
+  "learn": "Hoy, el agua está fría.",
+  "vulgar": false,
+  "known": "Today, the water is cold.",
+  "audio_url": "sentence_agua_easy.mp3",
+  "words": [
+    {
+      "pre_learn": "",
+      "post_learn": ", ",
+      "start": 0,
+      "end": 3,
+      "learn": "Hoy",
+      "known": "today",
+      "root": "hoy",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 5,
+      "end": 7,
+      "learn": "el",
+      "known": "the",
+      "root": "el",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 8,
+      "end": 12,
+      "learn": "agua",
+      "known": "water",
+      "root": "agua",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": "1"
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 13,
+      "end": 17,
+      "learn": "está",
+      "known": "is",
+      "root": "está",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": ".",
+      "start": 18,
+      "end": 22,
+      "learn": "fría",
+      "known": "cold",
+      "root": "fría",
+      "tags": [
+        "feminine"
+      ],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": null
+    }
+  ],
+  "lang_pack": "en-US_es-MX"
+}
