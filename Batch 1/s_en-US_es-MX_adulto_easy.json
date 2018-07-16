@@ -2,7 +2,7 @@
   "625_word": "adulto",
   "difficulty": "easy",
   "learn": "Tú eres un adulto muy responsable.",
-  "vulgar": false,
+  "vulgar": true,
   "known": "You are a very responsible adult.",
   "audio_url": "sentence_adulto_easy.mp3",
   "words": [
