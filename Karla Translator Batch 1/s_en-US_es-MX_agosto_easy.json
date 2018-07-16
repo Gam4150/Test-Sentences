@@ -1,0 +1,80 @@
+{
+  "625_word": "agosto",
+  "difficulty": "easy",
+  "learn": "Mi cumpleaños es en agosto.",
+  "vulgar": false,
+  "known": "My birthday is in August.",
+  "audio_url": "sentence_agosto_easy.mp3",
+  "words": [
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 0,
+      "end": 2,
+      "learn": "Mi",
+      "known": "my",
+      "root": "mi",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 3,
+      "end": 13,
+      "learn": "cumpleaños",
+      "known": "birthday",
+      "root": "cumpleaños",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 14,
+      "end": 16,
+      "learn": "es",
+      "known": "is",
+      "root": "es",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 17,
+      "end": 19,
+      "learn": "en",
+      "known": "in",
+      "root": "en",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": ".",
+      "start": 20,
+      "end": 26,
+      "learn": "agosto",
+      "known": "August",
+      "root": "agosto",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    }
+  ],
+  "lang_pack": "en-US_es-MX"
+}

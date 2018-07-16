@@ -1,0 +1,134 @@
+{
+  "625_word": "agosto",
+  "difficulty": "medium",
+  "learn": "Mis vecinos han decidido mudarse de casa en agosto.",
+  "vulgar": false,
+  "known": "My neighbors have decided to move house in August.",
+  "audio_url": "sentence_agosto_medium.mp3",
+  "words": [
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 0,
+      "end": 3,
+      "learn": "Mis",
+      "known": "my",
+      "root": "mis",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 4,
+      "end": 11,
+      "learn": "vecinos",
+      "known": "neighbors",
+      "root": "vecinos",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 12,
+      "end": 15,
+      "learn": "han",
+      "known": "have",
+      "root": "han",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 16,
+      "end": 24,
+      "learn": "decidido",
+      "known": "decided",
+      "root": "decidido",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 25,
+      "end": 32,
+      "learn": "mudarse",
+      "known": "move",
+      "root": "mudarse",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 33,
+      "end": 35,
+      "learn": "de",
+      "known": "from",
+      "root": "de",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 36,
+      "end": 40,
+      "learn": "casa",
+      "known": "house",
+      "root": "casa",
+      "tags": [
+        "feminine"
+      ],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 41,
+      "end": 43,
+      "learn": "en",
+      "known": "in",
+      "root": "en",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": ".",
+      "start": 44,
+      "end": 50,
+      "learn": "agosto",
+      "known": "August",
+      "root": "agosto",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    }
+  ],
+  "lang_pack": "en-US_es-MX"
+}

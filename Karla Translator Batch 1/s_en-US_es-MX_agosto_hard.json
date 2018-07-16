@@ -1,0 +1,295 @@
+{
+  "625_word": "agosto",
+  "difficulty": "hard",
+  "learn": "Uno de los espectáculos más esperados de este año será la lluvia de estrellas que ilumina el cielo en agosto.",
+  "vulgar": false,
+  "known": "One of the most anticipated shows of this year will be the shower of stars that illuminates the sky in August.",
+  "audio_url": "sentence_agosto_hard.mp3",
+  "words": [
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 0,
+      "end": 3,
+      "learn": "Uno",
+      "known": "one",
+      "root": "uno",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 4,
+      "end": 6,
+      "learn": "de",
+      "known": "of",
+      "root": "de",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 7,
+      "end": 10,
+      "learn": "los",
+      "known": "the",
+      "root": "los",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 11,
+      "end": 23,
+      "learn": "espectáculos",
+      "known": "shows",
+      "root": "espectáculos",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 24,
+      "end": 27,
+      "learn": "más",
+      "known": "more",
+      "root": "más",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 28,
+      "end": 37,
+      "learn": "esperados",
+      "known": "expected",
+      "root": "esperados",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 38,
+      "end": 40,
+      "learn": "de",
+      "known": "of",
+      "root": "de",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 41,
+      "end": 45,
+      "learn": "este",
+      "known": "this",
+      "root": "este",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 46,
+      "end": 49,
+      "learn": "año",
+      "known": "year",
+      "root": "año",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 50,
+      "end": 54,
+      "learn": "será",
+      "known": "be",
+      "root": "será",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 55,
+      "end": 57,
+      "learn": "la",
+      "known": "the",
+      "root": "la",
+      "tags": [
+        "feminine"
+      ],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 58,
+      "end": 64,
+      "learn": "lluvia",
+      "known": "rain",
+      "root": "lluvia",
+      "tags": [
+        "feminine"
+      ],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": "10"
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 65,
+      "end": 67,
+      "learn": "de",
+      "known": "of",
+      "root": "de",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 68,
+      "end": 77,
+      "learn": "estrellas",
+      "known": "star",
+      "root": "estrellas",
+      "tags": [
+        "feminine"
+      ],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 78,
+      "end": 81,
+      "learn": "que",
+      "known": "that",
+      "root": "que",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 82,
+      "end": 89,
+      "learn": "ilumina",
+      "known": "illuminates",
+      "root": "ilumina",
+      "tags": [],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 90,
+      "end": 92,
+      "learn": "el",
+      "known": "the",
+      "root": "el",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 93,
+      "end": 98,
+      "learn": "cielo",
+      "known": "sky",
+      "root": "cielo",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": false,
+      "vulgar": false,
+      "child_index": "16"
+    },
+    {
+      "pre_learn": "",
+      "post_learn": " ",
+      "start": 99,
+      "end": 101,
+      "learn": "en",
+      "known": "in",
+      "root": "en",
+      "tags": [],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    },
+    {
+      "pre_learn": "",
+      "post_learn": ".",
+      "start": 102,
+      "end": 108,
+      "learn": "agosto",
+      "known": "August",
+      "root": "agosto",
+      "tags": [
+        "masculine"
+      ],
+      "abstract": true,
+      "vulgar": false,
+      "child_index": null
+    }
+  ],
+  "lang_pack": "en-US_es-MX"
+}
